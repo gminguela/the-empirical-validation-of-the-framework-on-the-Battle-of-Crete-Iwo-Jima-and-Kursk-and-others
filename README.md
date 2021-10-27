@@ -9,3 +9,5 @@ All of them were developed using excel spreadsheets through Microsoft Excel 2016
 
 In the excel spreadsheets, you will find tables defining the events of the battle based on the attrition values, the method used in the prediction of the values is the non-linear GRG algorithm.
 
+There have been included the setpoints for the different battles by excel spreadsheet.
+
