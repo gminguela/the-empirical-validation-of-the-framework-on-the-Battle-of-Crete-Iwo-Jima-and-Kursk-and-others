@@ -34,3 +34,6 @@ T.  W.  Lucas  and  J.  A.  Dinges.   The  effect  of  battle  cir-cumstances on
 T.  Turkes.Fitting  Lanchester  and  other  equations  to  theBattle of Kursk data.  PhD thesis, 2011.
 
 L. R. Speight. Within-campaign analysis:  A statistical eval-uation of the battle of kursk.Military  operations  research(Alexandria, Va.), 16(2):41–62, Jan 1, 2011.
+# Licenses
+Code is BSD-3 unless otherwise noted.
+Data is odc-by.
