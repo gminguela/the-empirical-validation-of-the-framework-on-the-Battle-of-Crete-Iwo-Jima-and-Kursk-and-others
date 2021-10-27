@@ -11,3 +11,26 @@ In the excel spreadsheets, you will find tables defining the events of the battl
 
 There have been included the setpoints for the different battles by excel spreadsheet.
 
+# References
+
+J.  H.  Engel.    Combat  effectiveness  of  allied  and  germantroops  in  the  world  war  2  invasion  of  crete.   Technical  re-port, Center for Naval Analyses Alexandria VA, OperationsEvaluation Group, Feb 8, 1963.
+
+M.  A.  Biank.Battle  Of  Crete:   Hitler’s  Airborne  Gamble.Pickle  Partners  Publishing,  Auckland,  New  Zealand,  Aug15, 2014.
+
+K.  J.  Cox.   The  battle  for  crete  (operation  mercury):  Anoperational analysis. Technical report, Naval War Coll New-port RI Joint Military Operations Dept, May 18, 2001.
+
+J. M. Miller.  Crete and the three levels of war.  Technicalreport, ArmyWar Coll Carlisle Barracks Pa, Feb 28, 1989.
+
+J. H. Engel.  A Verification of Lanchester’s Law.Journal ofthe  Operations  Research  Society  of  America,  2(2):163–171,1954.
+
+J. H. Alexander.Closing in:  Marines in the seizure of IwoJima.   History  and  Museums  Division,  Headquarters,  USMarine Corps, 1994.
+
+C. P. Morehouse.The Iwo Jima Operations.  Historical Di-vision, Headquarters, US Marine Corps, 1946.
+
+W. J. Bauman.  Kursk operation simulation and validationexercise - phase ii (kosave ii).  Technical report, Army Con-cepts Analysis Agency Bethesda MD, Sep 1998.
+
+T.  W.  Lucas  and  J.  A.  Dinges.   The  effect  of  battle  cir-cumstances on fitting Lanchester equations to the battle ofkursk.Military Operations Research, 9(2):17–30, 2004.
+
+T.  Turkes.Fitting  Lanchester  and  other  equations  to  theBattle of Kursk data.  PhD thesis, 2011.
+
+L. R. Speight. Within-campaign analysis:  A statistical eval-uation of the battle of kursk.Military  operations  research(Alexandria, Va.), 16(2):41–62, Jan 1, 2011.
