@@ -1,4 +1,4 @@
-# the-empirical-validation-of-the-framework-on-the-Battle-of-Crete-Iwo-Jima-and-Kursk-and-others
+# the-empirical-validation-of-the-framework-on-the-Battle-of-Crete-Iwo-Jima-and-Kursk
 Automated Support for Battle Operational-Strategic Decision-Making
 
 This repository reports the empirical validation of the framework in the Battle of Crete, Iwo Jima and Kursk, the key to test the framework proposed in the thesis "Automated Support for Battle Operational-Strategic Decision-Makin" developed at the Department of Computer Systems and Software Engineering, Universidad Nacional de Educación a Distancia (UNED), 28040 Madrid, Spain.
