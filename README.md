@@ -7,7 +7,7 @@ In particular, on the Battle of Crete and Iwo-Jima, our validation goal is to id
 
 All of them were developed using excel spreadsheets through Microsoft Excel 2016 on tables that define the battle events based on attrition values. The following Excel plug-ins have also been used; EZAnalyze v3.0, XLSTAT 2021 v1.4, and Simple Decision Tree v1.4.
 
-In the excel spreadsheets, you will find tables defining the events of the battle based on the attrition values, the method used in the prediction of the values is the non-linear GRG algorithm.
+In the excel spreadsheets, you will find tables defining the events of the battle based on the attrition values, the method used in the prediction of the values is the non-linear GRG algorithm and Markovian Lanchesterian approximation.
 
 There have been included the setpoints for the different battles by excel spreadsheet.
 
